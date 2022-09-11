@@ -1,2 +1,2 @@
 hello:
-	@echo "Hello, Make"
+	@echo "Hello, Make!"
